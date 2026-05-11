@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Recursos de Design
+*.tmp
+*.bak
+
+# Pastas de ambiente (caso use scripts Python para gerar paletas)
+venv/
+.env
+__pycache__/
+
+# Logs do Notion/Ferramentas
+.notion_cache
