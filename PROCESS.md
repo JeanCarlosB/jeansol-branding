@@ -29,6 +29,8 @@ Focada em métricas e resultados, utilizando um gráfico de barras crescente.
 ### Variação C: Ciência de Dados e IA (Escolha Final)
 Esta versão foi a selecionada por representar a modernidade da Ciência de Dados. O grafo/rede neural simboliza a conexão de pontos para gerar *insights*.
 
+![Logo Final](./assets/logo-jeansol.svg)
+
 ## 4. Refinamento Técnico (O Toque Final)
 A versão final passou por um processo de "limpeza" geométrica:
 1. **Ajuste de Respiro**: Afastámos os triângulos do círculo central para garantir nitidez em tamanhos pequenos.
